@@ -18,7 +18,7 @@
   
   •  PostgreSQL (SQL) → Data analysis and querying.
   
-  •  Power BI → Data visualization and dashboard creation
+  •  Power BI → Data visualization and dashboard creation.
 
  ### Data Workflow:
    ### 1.) Data Cleaning and Preprocessing:
